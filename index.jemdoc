@@ -1,0 +1,183 @@
+= Huy Tuan Pham 
+([huypham@stanford.edu])
+
+I am a Visiting Clay Fellow and Stanford Science Fellow in the [http://mathematics.stanford.edu Department of Mathematics] at Stanford University. I previously obtained my PhD from Stanford University, where I was very fortunate to be advised by Professor [http://stanford.edu/~jacobfox/ Jacob Fox]. I got my BS in Mathematics and MS in Statistics with Honors and Distinction from Stanford University, and a Master of Advanced Study in Mathematics with Distinction from the University of Cambridge. 
+
+== Research Interests
+Probabilistic combinatorics, additive combinatorics, extremal combinatorics, probability theory, theoretical computer science, deep learning. 
+
+== [./huypham_cv_2022_long.pdf CV] 
+
+== Publications 
+*Probabilistic Combinatorics*
+
+- On a conjecture of Talagrand on selector processes and a consequence on positive empirical processes, \n
+/Jinyoung Park, H. T. Pham./ ([https://arxiv.org/abs/2204.10309 arXiv])
+
+- A proof of the Kahn-Kalai Conjecture, \n
+/Jinyoung Park, H. T. Pham,/ to appear in J. Amer. Math. Soc. A preliminary version appears in FOCS 2022. ([https://arxiv.org/abs/2203.17207 arXiv]) ([https://www.youtube.com/watch?v=ElaaV3OLD9I Talk]) ([https://www.twosigma.com/articles/the-fellowship-forum-meet-the-two-sigma-fellows/ an interview with Two Sigma])
+
+- Optimal thresholds for Latin squares, Steiner Triple Systems, and edge colorings, \n
+/Vishesh Jain, H. T. Pham./ ([https://arxiv.org/pdf/2212.06109.pdf arXiv])
+
+- A Toolkit for Robust Thresholds, \n
+/H. T. Pham, Ashwin Sah, Mehtaab Sawhney, Michael Simkin./ ([https://arxiv.org/abs/2210.03064 arXiv])
+
+- Regularity method and large deviations principles for the Erdos-Renyi hypergraph, \n
+/Nicholas Cook, Amir Dembo, H. T. Pham,/ to appear in Duke Math. J. ([https://arxiv.org/pdf/2102.09100 arXiv])
+
+- Small subsets with large sumset: Beyond the Cauchy–Davenport bound, \n
+/Jacob Fox, Sammy Luo, H. T. Pham, Yunkun Zhou./ ([https://arxiv.org/pdf/2210.07196 arXiv])
+
+- On random irregular subgraphs, \n
+/Jacob Fox, Sammy Luo, H. T. Pham./ ([https://arxiv.org/abs/2207.13651 arXiv])
+
+- A multipartite analogue of Dilworth's Theorem, \n
+/Jacob Fox, H. T. Pham./ 
+
+*Additive Combinatorics*
+
+- Subset sums, completeness and colorings,\n
+/David Conlon, Jacob Fox, H. T. Pham./ ([https://arxiv.org/pdf/2104.14766 arXiv])
+
+- The upper logarithmic density of monochromatic subset sums, \n
+/David Conlon, Jacob Fox, H. T. Pham,/ Mathematika (2022). ([https://arxiv.org/pdf/2105.15195 arXiv])
+
+- Tower-type bounds for Roth's theorem with popular differences, \n
+/Jacob Fox, H. T. Pham, Yufei Zhao,/ Journal of the European Mathematical Society (2022). ([https://arxiv.org/pdf/2004.13690 arXiv])
+
+- Small subsets with large sumset: Beyond the Cauchy-Davenport bound, \n
+/Jacob Fox, Sammy Luo, H. T. Pham, Yunkun Zhou./ ([https://arxiv.org/abs/2210.07196 arXiv])
+
+- Popular progression differences in vector spaces, \n
+/Jacob Fox, H. T. Pham,/ International Mathematics Research Notices 7 (2021), 5261--5289. ([https://arxiv.org/pdf/1708.08482 arXiv])
+
+- Popular progression differences in vector spaces II, \n
+/Jacob Fox, H. T. Pham,/ Discrete Analysis, 2019:16. ([https://arxiv.org/pdf/1708.08486v2 arXiv])
+
+- Common and Sidorenko linear equations, \n
+/Jacob Fox, H. T. Pham, Yufei Zhao,/ Quarterly Journal of Mathematics 72 (2021), 1223--1234. ([https://arxiv.org/pdf/1910.06436 arXiv])
+
+- Popular monochromatic progression differences,\n
+/Jacob Fox, H. T. Pham./
+
+- Universality for Low-Degree Factors of Random Polynomials over Finite Fields, \n
+/Jimmy He, H. T. Pham, Max Wenqiang Xu,/ International Mathematics Research Notices (2022). ([https://arxiv.org/pdf/2201.06156.pdf arXiv])
+
+- Mixing time of fractional random walk on finite fields, \n
+/Jimmy He, H. T. Pham, Max Wenqiang Xu,/ Electronic Journal of Probability 27 (2022). ([https://arxiv.org/pdf/2102.02781.pdf arXiv])
+
+- Irreducibility of random polynomials of bounded degree, \n
+/H. T. Pham, Max Wenqiang Xu,/ Discrete Analysis, 2021:7. ([https://arxiv.org/pdf/2002.10554.pdf arXiv])
+
+*Deep Learning Theory*
+
+- Limiting fluctuation and trajectorial stability of multilayer neural networks with mean field training, \n
+/H. T. Pham\*, Phan-Minh Nguyen\*./ ([https://arxiv.org/pdf/2110.15954.pdf arXiv], NeurIPS 2021)
+
+- A Rigorous Framework for the Mean Field Limit of Multilayer Neural Networks, \n
+/Phan-Minh Nguyen\*, H. T. Pham\*./ ([https://arxiv.org/pdf/2001.11443.pdf arXiv]) ([./huypham_oneworldml2020.pdf Slides]) ([https://www.youtube.com/watch?v=3gxDiTEE-bM&t=1846s Talk])
+
+- Global convergence of three-layer neural networks in the mean field regime, \n
+/Phan-Minh Nguyen\*, H. T. Pham\*./ ([https://openreview.net/forum?id=KvyxFqZS_D ICLR 2021 Oral])
+
+- A Note on the Global Convergence of Multilayer Neural Networks in the Mean Field Regime, \n
+/H. T. Pham\*, Phan-Minh Nguyen\*./ ([https://arxiv.org/pdf/2006.09355.pdf arXiv])
+
+/*: Author ordering is randomized./
+
+*Theoretical Computer Science, approximate sampling and counting*
+
+- Optimal mixing of the down- up walk on independent sets of a given size, \n
+/Marcus Michelen, Vishesh Jain, H. T. Pham, Thuy-Duong Vuong,/ , to appear in FOCS 2023. ([https://arxiv.org/pdf/2305.06198.pdf arXiv])
+
+- On the sampling Lovasz Local Lemma for atomic constraint satisfaction problems, \n
+/Vishesh jain, H. T. Pham, Thuy-Duong Vuong./ ([https://arxiv.org/pdf/2102.08342.pdf arXiv])
+
+- Towards the sampling Lovasz Local Lemma, \n
+/Vishesh Jain, H. T. Pham, Thuy-Duong Vuong,/ 62nd Annual IEEE Symposium on Foundations of Computer Science (FOCS 2021). ([https://arxiv.org/pdf/2011.12196.pdf arXiv])
+
+- Entropic Independence: Optimal mixing of down-up random walks, \n
+/Nima Anari, Vishesh Jain, Frederic Koehler, H. T. Pham, Thuy-Duong Vuong,/ 54th ACM Symposium on Theory of Computing (STOC 2022). 
+
+- Entropic Independence I: Modified Log-Sobolev Inequalities for Fractionally Log-Concave Polynomials and High-Temperature Ising Model, \n
+/Nima Anari, Vishesh Jain, Frederic Koehler, H. T. Pham, Thuy-Duong Vuong./ ([https://arxiv.org/pdf/2106.04105.pdf arXiv])
+
+- Entropic Independence II: Optimal Sampling and Concentration via Restricted Modified Log-Sobolev Inequalities, \n
+/Nima Anari, Vishesh Jain, Frederic Koehler, H. T. Pham, Thuy-Duong Vuong./ ([https://arxiv.org/pdf/2111.03247.pdf arXiv])
+
+- Spectral independence, coupling with the stationary distribution, and the spectral gap of the Glauber dynamics, \n
+/Vishesh Jain, H. T. Pham, Thuy-Duong Vuong,/ Information Processing Letters 177 (2022). ([https://arxiv.org/pdf/2105.01201.pdf arXiv])
+
+- Universality of Spectral Independence with Applications to Fast Mixing in Spin Glasses, \n
+/Nima Anari, Vishesh Jain, Frederic Koehler, H. T. Pham, Thuy-Duong Vuong. ([https://arxiv.org/pdf/2307.10466.pdf arXiv])
+
+== Expositions
+
+- Almost periodicity and its applications to Roth's theorem, \n
+/H. T. Pham./ ([./cam_essay_final.pdf pdf])
+
+== Past and upcoming seminars
+- CMU ACO Seminar, February 2023.
+
+- Brown Probability Seminar, December 2022. 
+
+- MIT Combinatorics Seminar, December 2022.
+
+- Ohio State University Combinatorics Seminar, November 2022.
+
+- University of Illinois at Chicago Combinatorics and Probability Seminar, November 2022.
+
+- University of Illinois at Chicago Colloquium, November 2022.
+
+- University of Chicago Combinatorics and TCS Seminar, November 2022.
+
+- FOCS 2022, November 2022.
+
+- UC Berkeley Probability Seminar, October 2022.
+
+- AMS Special Session on Extremal Graph Theory, Utah, October 2022.
+
+- Online Asymptotic Geometric Analysis Seminar, October 2022.
+
+- University of Washington Theory Seminar, October 2022.
+
+- Banff Extremal Combinatorics and Geometry Workshop, August 2022.
+
+- UCSB Summer school, August 2022.
+
+- LA Probability Forum, June 2022. 
+
+- UCSD Theory Seminar, June 2022.
+
+- UCLA Combinatorics Seminar, May 2022.
+
+- Stanford Theory Seminar, May 2022.
+
+- Percolation Today, May 2022.
+
+- Stanford Probability Seminar, May 2022.
+
+- UC Berkeley Theory Lunch, May 2022.
+
+- Stanford Combinatorics Seminar, April 2022.
+
+- Oberwolfach Workshop in Combinatorics, Probability and Computing, April 2022. 
+
+== Selected Awards and Distinctions 
+
+*Rank 1 - Part III of the Mathematical Tripos* - University of Cambridge, 2019.
+
+*Pure Mathematics Prize* - University of Cambridge, 2019.
+- Awarded to best student in Pure Mathematics at Part III of the Mathematical Tripos.
+
+*Morgan Prize Honorable Mention*, 2018.
+
+*Kennedy Thesis Prize in the Natural Sciences* - Stanford University, 2018.
+- Awarded to the best senior honors thesis in each of the following areas of study: humanities, social sciences, natural sciences, and engineering and applied sciences.
+
+*Deans’ Award for Academic Achievement* - Stanford University, 2017.
+- Awarded to between five and ten extraordinary undergraduate students, based on excellent academic achievements and independent research.
+
+*Gold Medal* - International Mathematical Olympiad, 2014, 2013.
+
